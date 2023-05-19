@@ -58,5 +58,26 @@
     "name": "Cosmo Vneck",
     "price": 20,
     "image": "/images/cosmo-tshirt-vneck.jpg"
+  },
+  {
+    "name": "HD LED Mask",
+    "id": "LED_Mask",
+    "desctription": "Bluetooth HD LED Mask with multiple faces, animations and sound detector",
+    "price": 119.99,
+    "image": "/images/led-mask.jpg"
+  },
+  {
+    "name": "Led Shoes",
+    "id": "LED_shoes",
+    "desctription": "New design and technology light up shoes that have 7 single colors glow and 4 flashing models. USB charging for 2-3 hours will keep the light working for 5-8 hours.(working period differs by different light up mode)",
+    "price": 69.99,
+    "image": "/images/led-shoes.jpg"
+  },
+  {
+    "name": "LED Party glasses",
+    "id": "LED_glasses",
+    "desctription": "Party glasses-include Animation interface contains 22 animations, 1 custom animation loop. the picture gallery contains 20 pictures. You can put as many words as you can like. This LED Luminous Glasses",
+    "price": 79.99,
+    "image": "/images/led-glasses.jpg"
   }
 ]
